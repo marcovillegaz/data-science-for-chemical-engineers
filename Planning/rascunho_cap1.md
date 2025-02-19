@@ -16,7 +16,26 @@
 ## Marco
 Formar un mindet de ciencitista de datos previo a la simulacion de casos.
 
-Storyboard:
+### Pitch primera clase (para motivarlos y hacerlos sentir parte de algo mas grande)
+Problema: El auge de la industria 4.0, incluso la 5.0, y como es importante que ingenieros de procesos tengan conocimientos
+en la manipulacion y analisis de grandes cantidades de datos e informacion. Hacerles entender que es un problema para ellos, en el mercado laboral y blabla.
+
+Salto de valor: (tres mini problemas)
+
+Solucion: Para abordar esta problematica, vamos a realizar el siguiente curso (aca explicar el temario, los objetivos, la metodologia).
+    Aprendisaje activo: En el aprendizaje activo, el rol del docente es el de guía, facilitador, motivador y mediador. 
+    Usaremos aplicacion de repositoriso de codigo, donde ustedes subiran sus avances y trabajos. 
+
+Salto de valor: (alineados con los problemas)
+
+COmpetidores y mercado: quizas mostrar algunas cifras del mercado de ingenieros quimicos y como la industria esta requiriendo estas tecnologias.
+La importancia de la IA, etc.
+
+Equipos: Aca describri a los profesores, guias 
+
+
+
+### Storyboard
 
 Somos una consultoria simulada de ciencia de datos en industria de procesos. Los alumnos son ingenierios que pertenecen al grupo. Los profesores tomaran lo sigueintes roles: uno sera el lider del equipo de ingenierios, mientras que el otro tendra el rol de cliente. Esto con el fin de poner a los estudiantes en un entorno simulado donde tengan que presnetar resultados, resolver dudas, tener reunionnes de equipo (Segumineto, informacion, discucion y desicion). 
 
